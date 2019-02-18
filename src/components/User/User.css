@@ -1,0 +1,24 @@
+.pet_grzx { width: 100%; background: #fff; padding-top: 20px;}
+.pet_grzx_nr {width: 100%; padding: 40px 20px 0; overflow: hidden;}
+.pet_grzx_ico { margin: 0 auto; width: 200px; height: 200px; border-radius: 50%; overflow: hidden;}
+.pet_grzx_ico img { width: 100%;}
+.pet_grzx_name { width: 100%; font-size: 20px;  padding: 15px 0 0; text-align: center; color: #222;}
+.pet_grzx_map { font-size: 14px;width: 100%;  text-align: center; color: #a1a1a1;}
+.pet_grzx_num_font { padding-top: 20px; width: 90%;color: #a1a1a1; margin: 0 auto; font-size: 14px; text-align: center;}
+.pet_grzx_num {  padding-bottom: 25px; overflow: hidden; width: 100%; padding-top: 25px;}
+.pet_grzx_num i { font-size: 12px; font-style: normal; color: #a1a1a1; display: block;}
+.pet_grzx_num span { text-align: center; width: 33.3333%; display: block; float: left; color: #222;}
+
+.pet_grzx_list { width: 100%; border-top: 1px solid #f0f0f0; padding: 20px 10px; overflow: hidden;}
+.pet_grzx_list_block { width: 100%;}
+.pet_grzx_list_block_l { width: 140px; float: left; position: relative;}
+.pet_grzx_list_block_l img { width: 100%;}
+.pet_grzx_list_block_r { position: relative; margin-left: 160px; }
+.pet_grzx_list_block_title { font-size: 16px;  line-height: 25px; color: #222;}
+.pet_grzx_list_block_info { font-size: 12px;color: #a1a1a1;}
+
+.pet_content_main .am-list-news-default .pet_list_one_text {
+    left: 0px;
+    bottom: 0px;
+    /* -webkit-line-clamp: 1; */
+}

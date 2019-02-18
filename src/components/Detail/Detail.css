@@ -1,0 +1,19 @@
+.pet_content { width: 100%; background: #ececec; padding-top: 49px;}
+.am-paragraph-default a { color: #ff5656;}
+.pet_content_block { width: 100%; background: #fff; margin: 0 auto;  box-shadow: 0 1px 2px rgba(0,0,0,0.05);}
+.pet_content_block .am-paragraph-default img { border: none; padding: 0; margin: 0 auto;max-width: 100%;}
+.pet_content_block .am-paragraph-default p {font-size: 17px;line-height: 1.8;}
+.pet_content_article {padding: 20px 8px 0;}
+.pet_content_article img { border-radius: 5px;}
+.pet_content_article blockquote p { margin-top: 0;}
+.pet_content_article embed { width: 100%;}
+/*  喜欢 分享*/
+.like_share_block { width:100%; padding:25px 15px 10px; overflow: hidden;   margin-top: 15px;}
+.like_share_block li { width: 33.33%; padding:0 5px; float: left;}
+.link_share_button i { display: inline-block; margin-right: 5px;}
+.link_share_button { color: #979797;  font-size: 14px;height: 36px; line-height: 36px; text-align: center; display: block; border-radius: 20px; border: 1px solid #dcdcdc;}
+.link_share_button:hover { color: #e86060;  }
+.link_share_button .share_ico_link { color:#e86060; }
+.link_share_button .share_ico_wx { color:#6dc35e;}
+.link_share_button .share_ico_pyq { color:#6959f0;}
+.pet_content_list { padding-top: 29px;}
